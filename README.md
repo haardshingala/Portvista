@@ -45,11 +45,11 @@ Starting scan on github.com (1–1024)...
 Scan complete.  
 📁 Results saved to results_20240611_1545.csv  
 📝 Summary saved to summary_20240611_1545.txt  
-
+```
 
 ---
 
-## 🛠️ How to Run
+##  🛠️  How to Run 
 
 ```bash
 # Basic usage
@@ -63,7 +63,7 @@ python port_scanner.py --target github.com --threads 200 --timeout 2.0
 
 # Custom output file
 python port_scanner.py --target github.com --output myscan.csv
-
+```
 
 ---
 
@@ -102,9 +102,9 @@ This tool is intended **only for ethical and educational purposes**.
 
 ## 🧑‍💻 Author
 
-Made with 🔍 by **Haard Shingala**
+Made by **Haard Shingala**
 🎓 B.Tech in Computer Engineering – PDEU
-🔗 [LinkedIn](https://www.linkedin.com/in/haardshingala)
+🔗 [LinkedIn](https://www.linkedin.com/in/haard-shingala)
 📁 [GitHub](https://github.com/haardshingala)
 
 
