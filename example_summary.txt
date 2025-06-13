@@ -1,0 +1,10 @@
+Scan Summary for github.com
+Scanned ports: 1024
+Open ports found: 3
+Open Ports:
+ - Port 22: SSH | Banner: SSH-2.0-9e814c2a
+ - Port 80: HTTP | Banner: HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Location: https:///
+connection: close
+ - Port 443: HTTPS | Banner: N/A

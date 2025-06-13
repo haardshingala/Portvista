@@ -1,0 +1,7 @@
+Port,Service,Status,Banner
+22,SSH,OPEN,SSH-2.0-9e814c2a
+80,HTTP,OPEN,"HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Location: https:///
+connection: close"
+443,HTTPS,OPEN,N/A
