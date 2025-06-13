@@ -25,7 +25,7 @@
 ![Terminal Output](assets/screenshots/terminal_output.png)
 
 ### CSV Output  
-![CSV Output](assets/screenshots/results_csv.png)
+![CSV Output](assets/screenshots/result_csv_output.png)
 
 ---
 
